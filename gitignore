@@ -8,4 +8,5 @@ a.out
 day*
 '#'*'#'
 *~
-libmy.a
+*.a
+*.o
